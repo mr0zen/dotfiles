@@ -1,0 +1,9 @@
+nimcache/
+nimblecache/
+htmldocs/
+**/lazy-lock.json
+lazy-lock.json
+*/lazy-lock.json
+tmux/plugins
+tmux/plugins/*
+tmux/plugins/**
